@@ -1,4 +1,4 @@
-# lux
+![](http://u.cubeupload.com/hellix08/0fH4kB.png)
 
 lux is a simple platform made in 3 hours for the [60th edition of Trijam](https://itch.io/jam/trijam-60).
 
